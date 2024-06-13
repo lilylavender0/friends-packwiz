@@ -23,6 +23,11 @@ hash = "42641ad046d417668f6118db76da9b74cb94b5e6e84dbc5139c0b4a47517cffc"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "a0bf3e4e26c563a6b79df09c322e5a22a20ab5a2b2ae0a3263e30eacde186168"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
@@ -30,6 +35,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
 metafile = true
 
 [[files]]
@@ -48,8 +58,23 @@ hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
+file = "mods/craftify.pw.toml"
+hash = "a922bf427774fff35a3c7ca4de7c46e629f6a56daf4ca84fbc3cba1e5ca919f9"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "880d7fcdbf0bc9e1e7e5ff3b120e9667245708a5d144b5afbad32bf39c7fc1f9"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "4cf7a453a6cc82b23809d0c581cb632fb369bff9b0f0d39416859fb246d4be8a"
 metafile = true
 
 [[files]]
@@ -98,6 +123,11 @@ hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "302ca72647553f2d377c228a2abe3564c3919a36f9f5cfff32f2ce89c4a78fbc"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
 metafile = true
@@ -120,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/slabs-expanded.pw.toml"
 hash = "396c2aa3218a3c4683691201067c03877a25aaa1e552035a91c096d2a6a23ca3"
+metafile = true
+
+[[files]]
+file = "mods/snuffles-fabric.pw.toml"
+hash = "aef87842d12dba4b85fd6d5c4e123584513901cf588dac4361a9953c701b7496"
 metafile = true
 
 [[files]]
