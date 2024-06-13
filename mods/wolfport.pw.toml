@@ -1,0 +1,13 @@
+name = "Wolf Port"
+filename = "wolf_port-1.0.3-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLZglE65/versions/vsa7BXDE/wolf_port-1.0.3-1.20.4.jar"
+hash-format = "sha1"
+hash = "6b3a3e6ca229429d40e7397e46cf74a192ac112a"
+
+[update]
+[update.modrinth]
+mod-id = "uLZglE65"
+version = "vsa7BXDE"
