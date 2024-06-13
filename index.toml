@@ -86,11 +86,6 @@ hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
 metafile = true
 
 [[files]]
-file = "mods/give-me-hats.pw.toml"
-hash = "75dc52aa6e6ee52e2e77d8bf8534ca3c9336d3836d8171f2ce0f949967ac42a3"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
