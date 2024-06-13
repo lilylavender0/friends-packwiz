@@ -6,9 +6,12 @@ hash = "eee95e3fdd26db4fec4eac0c81bac2c303e51688fc0574dd6f1dcf349402663b"
 metafile = true
 
 [[files]]
-file = "mods/additional-structures.pw.toml"
-hash = "b9495ace43368ab8bb1504a7836ab1f55e406d9a96f5c6eca7814bbab9ab6adc"
-metafile = true
+file = "mods/JCM-fabric-2.0.0-beta-1+1.20.4.jar"
+hash = "29b35c93061d23bd8044a6ae90cc1c38ab2b7ae6e5bd5f25e0ecc3a40bd78c52"
+
+[[files]]
+file = "mods/MSD-fabric-1.20.4-4.0.0-beta-7-1.3.5.jar"
+hash = "f655f1ed31399548ce687a3b9011abdc4affa912c4870a48f8d21a6779161834"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -23,21 +26,6 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
-metafile = true
-
-[[files]]
-file = "mods/better-end-cities-base.pw.toml"
-hash = "5caf479383c321ccebe14c755cf4c314d9ee9c2ba54fb0be444e100f7145d8a0"
-metafile = true
-
-[[files]]
-file = "mods/blossom-blade.pw.toml"
-hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "f4d50e2e0fae0612e93aa9128bb49258ba4b7a6c6a32ff39a0bc0cb04f2d7cbc"
 metafile = true
 
 [[files]]
@@ -56,11 +44,6 @@ hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
-file = "mods/cristel-lib.pw.toml"
-hash = "fb656204c3eb267b4d485f33409a7b6ab2ad10164589e4838ee4175062139c01"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "880d7fcdbf0bc9e1e7e5ff3b120e9667245708a5d144b5afbad32bf39c7fc1f9"
 metafile = true
@@ -76,11 +59,6 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
 metafile = true
@@ -93,11 +71,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "993fd31510502096d4bff09fc2b053776683302297548d2a039ae00fb58def0e"
 metafile = true
 
 [[files]]
@@ -118,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
 
 [[files]]
