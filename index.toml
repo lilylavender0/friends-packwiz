@@ -14,6 +14,14 @@ file = "mods/MSD-fabric-1.20.4-4.0.0-beta-7-1.3.5.jar"
 hash = "f655f1ed31399548ce687a3b9011abdc4affa912c4870a48f8d21a6779161834"
 
 [[files]]
+file = "mods/MTR-London-Underground-Addon-fabric-2.1.1+1.20.4.jar"
+hash = "714134f9b4fa75e067b25b838266d5b6e54093041466599fc7017e3f00788866"
+
+[[files]]
+file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
+hash = "c2a148ecec6346edeec0b58278c750bbc9c6336776146db47cb6781141a269e1"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "42641ad046d417668f6118db76da9b74cb94b5e6e84dbc5139c0b4a47517cffc"
 metafile = true
