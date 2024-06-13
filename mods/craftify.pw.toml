@@ -1,0 +1,17 @@
+name = "Craftify"
+filename = "Craftify-1.20.4-1.15.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrJ2NpD0/versions/dJjkibz3/Craftify-1.20.4-1.15.0-fabric.jar"
+hash-format = "sha1"
+hash = "c65659b0161855281183b3d33ed7e89dbc2dc597"
+
+[update]
+[update.modrinth]
+mod-id = "nrJ2NpD0"
+version = "dJjkibz3"
+
+[option]
+optional = true
+description = "Allows you to display your Spotify, Apple Music, or YouTube Music current-listening control panel in-game"
