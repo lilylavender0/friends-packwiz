@@ -1,0 +1,13 @@
+name = "Queers"
+author = "Ryn"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c884a1ea7584095d9ca47ccfad2dd306a59c6abf97984b7810cc258962433d8"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"
