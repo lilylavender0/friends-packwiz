@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "eee95e3fdd26db4fec4eac0c81bac2c303e51688fc0574dd6f1dcf349402663b"
-metafile = true
-
-[[files]]
 file = "mods/JCM-fabric-2.0.0-beta-1+1.20.4.jar"
 hash = "29b35c93061d23bd8044a6ae90cc1c38ab2b7ae6e5bd5f25e0ecc3a40bd78c52"
 
