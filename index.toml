@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
+hash = "3cfd22d73862e60da5770eeecd4b15dab7e2306682634a59e51243f27986b29d"
 metafile = true
 
 [[files]]
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+hash = "38695ae7106a9c6f1fc9f48248131b57a552a9b95d8e8a722139953a36af9e59"
 metafile = true
 
 [[files]]
@@ -60,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
+metafile = true
+
+[[files]]
+file = "mods/earth2java.pw.toml"
+hash = "8100e462b4b64f441878c97b00ff668159df7d155ce8bcb10d34549dd8fcc360"
 metafile = true
 
 [[files]]
@@ -123,13 +128,13 @@ hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
-file = "mods/more-mob-variants.pw.toml"
-hash = "302ca72647553f2d377c228a2abe3564c3919a36f9f5cfff32f2ce89c4a78fbc"
+file = "mods/notenoughcrashes.pw.toml"
+hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
+file = "mods/patchouli.pw.toml"
+hash = "20b013f809a352f9b54f5c9e54ac39296b8f33d701120c6ea6f303f60a332785"
 metafile = true
 
 [[files]]
