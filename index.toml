@@ -113,6 +113,11 @@ hash = "ebd67503d9de8325d4fc2bb7d2d01378381fb4b670f70b4d8611dae62614bf14"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "9887269997fa64eb6cc47fa4877fd2061bb09bae1b023216ead076af785a7430"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
