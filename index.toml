@@ -26,6 +26,11 @@ hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
 metafile = true
 
 [[files]]
+file = "mods/better-babies.pw.toml"
+hash = "1edfeb8de59d1eb6617d593b2304c24138d2f59c0ba7312bdeb48f64df4a8c44"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38695ae7106a9c6f1fc9f48248131b57a552a9b95d8e8a722139953a36af9e59"
 metafile = true
@@ -48,6 +53,21 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
+metafile = true
+
+[[files]]
+file = "mods/developer-resources.pw.toml"
+hash = "29e981666b50c77c1879349938577120f41dc1e20907ddb12c3ce12efeeae4a9"
+metafile = true
+
+[[files]]
+file = "mods/distracting-trims.pw.toml"
+hash = "a09a7d7c5ce48542f94accbd9490381566acec8d5419ca239d017c894bbe5ad5"
+metafile = true
+
+[[files]]
+file = "mods/duckling.pw.toml"
+hash = "df8d6dd5a9f55f4c93990eb8c41935dd620fe54d91a71d653a0f657a7ecce308"
 metafile = true
 
 [[files]]
@@ -78,6 +98,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "181b258a0e00b0d27e657d7618d2b4ef739227c6a37a6497f5618940ac30abb7"
+metafile = true
+
+[[files]]
+file = "mods/hellions-sniffer+.pw.toml"
+hash = "a8b2bb55b9213ca9b65943ce5f5d710461fc798fa989bb3c42efa68f5dc7a150"
 metafile = true
 
 [[files]]
@@ -126,8 +156,18 @@ hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
+file = "mods/mooblooms.pw.toml"
+hash = "dfd80edcbc518ebff32724999e7e53603a179c7ab101731456aaecb508a093b8"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
 
 [[files]]
@@ -138,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
+metafile = true
+
+[[files]]
+file = "mods/rapscallions-and-rockhoppers.pw.toml"
+hash = "b102c7aaa54460d5d21ef52699e6e67b230cefdef664d22ba21b323e7f2c0451"
 metafile = true
 
 [[files]]
@@ -191,6 +236,11 @@ hash = "31497032c83f449543ba83a2a56e2f010424bb13bc4a6e16d576c1a528d9a60e"
 metafile = true
 
 [[files]]
+file = "mods/vinurl.pw.toml"
+hash = "bb53fa308ab6ad44908549586582c586a6a0800e13ebed814fc8fcd84e682939"
+metafile = true
+
+[[files]]
 file = "mods/wolfport.pw.toml"
 hash = "71956b410d0309696aeb880465aaa5771fd28aad1bbd914e792db5ad675a51e2"
 metafile = true
@@ -213,4 +263,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gen-assets.pw.toml"
+hash = "1c6680908c0bdd736effc420b38d44b282b93c377d45e33040402bacddbf2588"
 metafile = true
