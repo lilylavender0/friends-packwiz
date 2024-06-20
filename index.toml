@@ -126,11 +126,6 @@ hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
-file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "6da9a04667763ba6474aff5730896511fa10b776212d175a29dbcdfcb91bb8a4"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
 metafile = true
@@ -178,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "d27dedf4e8fcd1da728cb828330337a44450321499fd70df9f5087d793117fe0"
 metafile = true
 
 [[files]]
