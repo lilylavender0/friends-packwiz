@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-fabric-2.0.0-beta-1+1.20.4.jar"
-hash = "29b35c93061d23bd8044a6ae90cc1c38ab2b7ae6e5bd5f25e0ecc3a40bd78c52"
-
-[[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.1.1+1.20.4.jar"
-hash = "714134f9b4fa75e067b25b838266d5b6e54093041466599fc7017e3f00788866"
-
-[[files]]
-file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
-hash = "c2a148ecec6346edeec0b58278c750bbc9c6336776146db47cb6781141a269e1"
+file = "mods/MTR-London-Underground-Addon-fabric-2.1.1+1.20.4 (3).jar"
+hash = "ed4af097d20d44865a81e3fd179d62057f36bed2f7ea66dfec9af75b876bd011"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -103,6 +95,11 @@ hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
 
 [[files]]
+file = "mods/jcm.pw.toml"
+hash = "d75c9226d022e89ef84c71d378bbdc2694fba018133b5315956e4805f0ed0ff5"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "3333370b50fdfa0dbcc079df7f96b69284f56594d0876f546eef67875bae99ed"
 metafile = true
@@ -120,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "9887269997fa64eb6cc47fa4877fd2061bb09bae1b023216ead076af785a7430"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "54d6283f31c189d020fb7d24f23a8d720eaaf1bca81ed5c24b753eba926d8854"
 metafile = true
 
 [[files]]
