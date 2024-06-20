@@ -1,0 +1,13 @@
+name = "Mooblooms"
+filename = "mooblooms-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OatOIyrk/versions/31NRUj4X/mooblooms-1.6.4.jar"
+hash-format = "sha1"
+hash = "128bd88e65d9fcd60656679699074a957a634640"
+
+[update]
+[update.modrinth]
+mod-id = "OatOIyrk"
+version = "31NRUj4X"

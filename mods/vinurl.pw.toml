@@ -1,0 +1,13 @@
+name = "VinURL Music"
+filename = "vinurl-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/HVDubUJS/vinurl-1.1.2.jar"
+hash-format = "sha1"
+hash = "cec064f4618533a22d5dabb858fe8252c94a38bf"
+
+[update]
+[update.modrinth]
+mod-id = "5PsMUIsq"
+version = "HVDubUJS"

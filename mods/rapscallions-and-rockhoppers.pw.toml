@@ -1,0 +1,13 @@
+name = "Rapscallions and Rockhoppers (Penguins)"
+filename = "rapscallions-and-rockhoppers-fabric-1.2.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pGITjpO/versions/HOekJDf0/rapscallions-and-rockhoppers-fabric-1.2.0%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "0ae04424d07142fde6d01a4ce03673096379a591"
+
+[update]
+[update.modrinth]
+mod-id = "9pGITjpO"
+version = "HOekJDf0"

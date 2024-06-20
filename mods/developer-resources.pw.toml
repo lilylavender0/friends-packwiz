@@ -1,0 +1,13 @@
+name = "Data API"
+filename = "developer-resources-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZS3lIxKu/versions/sLbfB1Q6/developer-resources-1.4.1.jar"
+hash-format = "sha1"
+hash = "aa1587825563229e37fddb384541de7e4b0a01ce"
+
+[update]
+[update.modrinth]
+mod-id = "ZS3lIxKu"
+version = "sLbfB1Q6"
