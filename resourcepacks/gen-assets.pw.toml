@@ -1,0 +1,13 @@
+name = "Gen Assets"
+filename = "gen_assets.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZRGZa67i/versions/vyqzXwOp/gen_assets.zip"
+hash-format = "sha1"
+hash = "d934ddb56d7559c5625ec57d8827e64fd4a9c6ce"
+
+[update]
+[update.modrinth]
+mod-id = "ZRGZa67i"
+version = "vyqzXwOp"
